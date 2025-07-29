@@ -37,3 +37,16 @@ const like = 'sample';
 TODO: Tell users more about the package: where to find more information, how to
 contribute to the package, how to file issues, what response they can expect
 from the package authors, and more.
+
+
+# smart_form_validator_ai
+
+🔍 A smart field validator that automatically detects the type of input (email, phone, etc.) and applies the correct validation logic.
+
+## ✅ Usage
+
+```dart
+TextFormField(
+  decoration: InputDecoration(labelText: 'Email'),
+  validator: (value) => validateInput('Email', value ?? ''),
+)
