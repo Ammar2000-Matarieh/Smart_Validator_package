@@ -1,9 +1,9 @@
 name: smart_form_validator_ai
 description: A smart validator that auto-detects field types (email, phone, etc.) and applies proper validation automatically.
-version: 0.0.1
-homepage: https://github.com/Ammar2000-Matarieh/smart_form_validator_ai
-repository: https://github.com/Ammar2000-Matarieh/smart_form_validator_ai
-issue_tracker: https://github.com/Ammar2000-Matarieh/smart_form_validator_ai/issues
+version: 1.0.0
+homepage: https://github.com/Ammar2000-Matarieh/Smart_Validator_package
+repository: https://github.com/Ammar2000-Matarieh/Smart_Validator_package
+issue_tracker: https://github.com/Ammar2000-Matarieh/Smart_Validator_package/issues
 
 environment:
   sdk: ">=3.0.0 <4.0.0"
